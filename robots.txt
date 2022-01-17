@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://whispering-boat.cloudvent.net/sitemap.xml
