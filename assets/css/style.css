@@ -498,63 +498,63 @@ Logo
     background-image: url("/assets/img/slide/slide1.jpg");
     -webkit-animation-name: kenburns-1;
     animation-name: kenburns-1;
-    z-index: 3;
+    z-index: 9;
 }
 
 .slideshow-image:nth-child(2) {
     background-image: url("/assets/img/slide/slide2.jpg");
     -webkit-animation-name: kenburns-2;
     animation-name: kenburns-2;
-    z-index: 2;
+    z-index: 8;
 }
 
 .slideshow-image:nth-child(3) {
     background-image: url("/assets/img/slide/slide3.jpg");
     -webkit-animation-name: kenburns-3;
     animation-name: kenburns-3;
-    z-index: 1;
+    z-index: 7;
 }
 
 .slideshow-image:nth-child(4) {
     background-image: url("/assets/img/slide/slide4.jpg");
     -webkit-animation-name: kenburns-4;
     animation-name: kenburns-4;
-    z-index: 0;
+    z-index: 6;
 }
 
 .slideshow-image:nth-child(5) {
     background-image: url("/assets/img/slide/slide5.jpg");
     -webkit-animation-name: kenburns-5;
     animation-name: kenburns-5;
-    z-index: 0;
+    z-index: 5;
 }
 
 .slideshow-image:nth-child(6) {
     background-image: url("/assets/img/slide/slide6.jpg");
     -webkit-animation-name: kenburns-6;
     animation-name: kenburns-6;
-    z-index: 0;
+    z-index: 4;
 }
 
 .slideshow-image:nth-child(7) {
     background-image: url("/assets/img/slide/slide7.jpg");
     -webkit-animation-name: kenburns-7;
     animation-name: kenburns-7;
-    z-index: 0;
+    z-index: 3;
 }
 
 .slideshow-image:nth-child(8) {
     background-image: url("/assets/img/slide/slide8.jpg");
     -webkit-animation-name: kenburns-8;
     animation-name: kenburns-8;
-    z-index: 0;
+    z-index: 2;
 }
 
 .slideshow-image:nth-child(9) {
     background-image: url("/assets/img/slide/slide9.jpg");
     -webkit-animation-name: kenburns-9;
     animation-name: kenburns-9;
-    z-index: 0;
+    z-index: 1;
 }
 
 .slideshow-image:nth-child(10) {
