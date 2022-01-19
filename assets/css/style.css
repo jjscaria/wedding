@@ -763,40 +763,66 @@ Logo
 }
 
 @-webkit-keyframes kenburns-5 {
-    73.4375% {
+    0% {
         opacity: 1;
         -webkit-transform: scale(1.2);
         transform: scale(1.2);
     }
-    76.5625% {
+    1.5625% {
         opacity: 1;
     }
-    98.4375% {
+    23.4375% {
         opacity: 1;
     }
-    100% {
+    26.5625% {
         opacity: 0;
         -webkit-transform: scale(1);
         transform: scale(1);
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+    98.4375% {
+        opacity: 0;
+        -webkit-transform: scale(1.21176);
+        transform: scale(1.21176);
+    }
+    100% {
+        opacity: 1;
     }
 }
 
 @keyframes kenburns-5 {
-    73.4375% {
+    0% {
         opacity: 1;
         -webkit-transform: scale(1.2);
         transform: scale(1.2);
     }
-    76.5625% {
+    1.5625% {
         opacity: 1;
     }
-    98.4375% {
+    23.4375% {
         opacity: 1;
     }
-    100% {
+    26.5625% {
         opacity: 0;
         -webkit-transform: scale(1);
         transform: scale(1);
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+    98.4375% {
+        opacity: 0;
+        -webkit-transform: scale(1.21176);
+        transform: scale(1.21176);
+    }
+    100% {
+        opacity: 1;
     }
 }
 
