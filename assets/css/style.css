@@ -1361,9 +1361,9 @@ footer {
 }
 
 .audioplay-object {
-    display: block;
+/*     display: block;
     border-radius: 0px;
-    padding: 0px;
+    padding: 0px; */
     bottom: 0; 
     position: fixed; 
     right: 0;
