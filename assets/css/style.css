@@ -1362,11 +1362,11 @@ footer {
 
 .music {
     display: block;
-    text-align: center;
     border-radius: 10px;
-    padding: 10px;
-    margin: 10px 0;
-/*    position: relative; */
+    padding: 0px;
+    bottom: 0; 
+    position: fixed; 
+    right: 0;
 }
 
 /* Go to top icon */
