@@ -1360,6 +1360,13 @@ footer {
     font-weight: 700;
 }
 
+.music {
+    display: block;
+    border-radius: 15px;
+    padding: 20px 30px;
+    margin: 100px 0;
+    position: relative;
+}
 
 /* Go to top icon */
 
