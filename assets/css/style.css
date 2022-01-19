@@ -1360,9 +1360,9 @@ footer {
     font-weight: 700;
 }
 
-.music {
+.audioplay-object {
     display: block;
-    border-radius: 10px;
+    border-radius: 0px;
     padding: 0px;
     bottom: 0; 
     position: fixed; 
