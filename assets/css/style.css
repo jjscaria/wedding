@@ -512,7 +512,7 @@ Logo
     background-image: url("/assets/img/slide/slide3.jpg");
     -webkit-animation-name: kenburns-3;
     animation-name: kenburns-3;
-    z-index: 71;
+    z-index: 1;
 }
 
 .slideshow-image:nth-child(4) {
