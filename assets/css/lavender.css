@@ -34,7 +34,7 @@ Lavender Color Scheme
     .btn-radio:active,
     ul.breadcrumb,
     .side-label:after {
-        background-color: #84d88b;
+        background-color: #D884B9;
     }
     
     .media-heading small,
@@ -52,7 +52,7 @@ Lavender Color Scheme
     .nav .open>a:hover,
     .owl-next i:hover,
     .owl-prev i:hover {
-        color: #84d88b;
+        color: #D884B9;
     }
     
     .comment,
@@ -70,7 +70,7 @@ Lavender Color Scheme
     .table>thead>tr>td,
     .table>thead>tr>th,
     .blog-latest img {
-        border-color: #84d88b;
+        border-color: #D884B9;
     }
     /*________  Purple ________  */
     
@@ -97,7 +97,7 @@ Lavender Color Scheme
     .breadcrumb>.active,
     .breadcrumb a:hover,
     .breadcrumb a:focus {
-        color: #6f8a7a;
+        color: #6f738a;
     }
     
     a.list-group-item:focus,
@@ -130,7 +130,7 @@ Lavender Color Scheme
     #elements h3.sub-header,
     .panel-heading a,
     .panel-heading a:hover {
-        background-color: #6f8a7a;
+        background-color: #6f738a;
     }
     
     .elements h5,
@@ -138,7 +138,7 @@ Lavender Color Scheme
     .open>.dropdown-toggle.btn-default:hover,
     .form-control:focus,
     select.form-control {
-        border-color: #6f8a7a;
+        border-color: #6f738a;
     }
     /*________  Lavender ________  */
     
@@ -157,7 +157,7 @@ Lavender Color Scheme
     .dropdown-menu,
     .option-input:hover,
     footer {
-        background-color: #b7d6b6;
+        background-color: #B6BAD6;
     }
     
     .form-control,
@@ -165,17 +165,17 @@ Lavender Color Scheme
     input[type="checkbox"],
     input[type=radio],
     .blog-post {
-        border-color: #b7d6b6;
+        border-color: #B6BAD6;
     }
     
     .btn-primary:hover,
     .btn:hover {
-        outline-color: #b7d6b6;
+        outline-color: #B6BAD6;
     }
     
     .date-category i,
     blockquote:before {
-        color: #b7d6b6;
+        color: #B6BAD6;
     }
     
     .slideshow-image,
@@ -192,7 +192,7 @@ Lavender Color Scheme
     .blog-post,
     .sidebar,
     .accordion-group {
-        border-color: #f6fdf2;
+        border-color: #fdf2f9;
     }
     
     body,
@@ -206,11 +206,11 @@ Lavender Color Scheme
     #elements h5.sub-header,
     .comment,
     .table-hover>tbody>tr:hover {
-        background-color: #f6fdf2;
+        background-color: #fdf2f9;
     }
     
     .nav.nav-tabs>li>a {
-        outline-color: #f6fdf2;
+        outline-color: #fdf2f9;
     }
     /*________  Ilustrations  ________  */
     
