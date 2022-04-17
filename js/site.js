@@ -100,9 +100,9 @@ jQuery(document).ready(function($) {
 	"use strict";
 	google.maps.event.addDomListener(window, 'load', init);
 	function init() {
-		var myLatlng = new google.maps.LatLng(23.835027, 90.368574);
-		var maptooltipbold = 'ThemeonLab';
-		var maptooltip = 'You can add your content here';
+		var myLatlng = new google.maps.LatLng(10.475288643213513, 76.2392249264728);
+		var maptooltipbold = 'Mary Matha Church';
+		var maptooltip = 'Ollur Main Rd, Panamkuttichira, Thrissur';
 		//---------------------------------------------------------//
 		var mapOptions = {
 			zoom: 17,
@@ -339,8 +339,8 @@ jQuery(document).ready(function($){
 //Copyright Footer
 jQuery(document).ready(function($){
 	'use strict';
-	document.getElementById("copyright").innerHTML =
-	"&copy;  " + new Date().getFullYear() + " <a href='http://www.themeonlab.com'>Themeonlab</a>. All rights reserved.";
+	/* document.getElementById("copyright").innerHTML =
+	"&copy;  " + new Date().getFullYear() + " <a href='http://www.themeonlab.com'>Themeonlab</a>. All rights reserved."; */
 });
 
 

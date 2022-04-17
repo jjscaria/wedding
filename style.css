@@ -113,6 +113,7 @@ z-index:999999;
 font-family: 'Great Vibes', cursive;
 color : #fff;
 font-size:55px;
+text-align:center;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:active, .navbar-default .navbar-brand.active {
 color : #ffffff;
@@ -842,7 +843,7 @@ border-radius:0px;
 	border-top:1px solid #e68a9e;
 	border-bottom:1px solid #e68a9e;
 	margin:25px 0px;
-	font-weight:300;
+	font-weight:500;
 	}
 .evnt_addres:before{
 	content:"";
@@ -896,7 +897,7 @@ border-radius:0px;
 	border-color : #ffffff;
 	color : #777;
 	font-size:16px;
-	width : 120px;
+	width : 200px;
 	font-weight : 400;
 	line-height:21px;
 	cursor:initial;
@@ -3340,7 +3341,7 @@ div.timeline_img:hover .inner-extra p{
 .slide_text_wrap{
 	width:100%;
 	position:absolute;
-	top:24%;
+	top:40%;
 	display:block;
 	}
 
