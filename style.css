@@ -60,17 +60,19 @@ Common Headers Font Size: 40px;
     IMPORT FONTS
 -------------------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Playball');
 
 body {
 overflow-x : hidden;
 background:#fff;
-font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 p {
 font-size : 14px;
 line-height : 1.75;
-font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 color:#656565;
 font-size:15px;
 font-weight:300;
@@ -88,7 +90,7 @@ text-transform : Capitalize;
 font-weight : 700;
 }
 p{
-font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 img{
 /* width:100%;	 */
@@ -3362,7 +3364,8 @@ div.timeline_img:hover .inner-extra p{
 	margin-bottom:8px;
 	}
 .slides  p{
-	font-size:18px;
+	font-family: 'Playball', sans-serif;
+	font-size:40px;
 	font-weight:300;
 	color:#ffffff;
 	text-transform:initial;
@@ -3371,7 +3374,6 @@ div.timeline_img:hover .inner-extra p{
 	bottom: 30px;
 	left: 50%;
 	margin:0 auto;
-	
 	width: 46.15%;
 	z-index: 100;
 	}
