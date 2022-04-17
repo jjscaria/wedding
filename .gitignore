@@ -1,8 +1,5 @@
-index2.html
-index3.html
-index4.html
-blog-single.html
-blog.html
+index[2-4].html
+blog*
 contact.php
 .vscode
 img/video
