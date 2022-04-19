@@ -436,19 +436,27 @@
 	
 	<!--Go Top -->
 	<div id="toTop" class="scrollup two"><a href="#"><i class="fa fa-angle-double-up fa-lg"></i></a></div>
-	<div class="audioplay-object">
+	<!-- <div class="audioplay-object">
 		<div class="audioplay-button"></div>
 		<audio class="audioplay-player" data-aploop="yes">
 			<source src="audio/bg.mp3" />
 			Your browser doesn't support &lt;audio&gt; element.
 		</audio>
-	</div>
+	</div> -->
 
 	<footer id="footer" class="footer_sec">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-xs-6">
-                    <span id="copyright" class="copyright"></span>
+                <div class="col-lg-12 col-md-12 col-xs-12">
+                    <span id="copyright" class="copyright">
+                        <figure>
+                            <audio controls autoplay loop muted
+                                src="audio/bg.mp3">
+                                    Your browser does not support the
+                                    <code>audio</code> element.
+                            </audio>
+                        </figure>
+                    </span>
                 </div>
             </div><!-- .row -->
         </div><!-- .container .rsvp_form -->
